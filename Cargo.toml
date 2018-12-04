@@ -1,0 +1,8 @@
+[package]
+name = "ledstrip"
+version = "0.1.0"
+edition = "2018"
+authors = ["Hans W. Uhlig <hans.uhlig@ibm.com>"]
+
+[dependencies]
+clap = "2.32"
