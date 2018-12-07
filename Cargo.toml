@@ -6,3 +6,4 @@ authors = ["Hans W. Uhlig <hans.uhlig@ibm.com>"]
 
 [dependencies]
 clap = "2.32"
+rand = "0.6"
